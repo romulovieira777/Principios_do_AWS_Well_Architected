@@ -3,6 +3,6 @@
 #### 💻 Temas abordados durante o curso foram: 🚀
 - [Módulo 1 - Visão geral do AWS Well-Architected Framework](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_1_Visao_Geral_do_AWS_Well_Architected_Framework)
 - [Módulo 2 - Como executar uma análise do Well-Architected Framework](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_2_Como_Executar_uma_Analise_do_Well_Architected_Framework)
-- [Módulo 3 - Análise detalhada da ferramenta do AWS Well-Architected]()
+- [Módulo 3 - Análise detalhada da ferramenta do AWS Well-Architected](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_3_Analise_Detalhada_da_Ferramenta_do_AWS_Well_Architected)
 
 Link para o Curso: [AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17997/principios-do-aws-well-architected-portugues-aws-well-architected-foundations-portuguese)
