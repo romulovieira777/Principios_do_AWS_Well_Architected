@@ -8,7 +8,6 @@
 - [Módulo 5 - Análise detalhada do pilar de segurança](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_5_Analise_Detalhada_do_Pilar_de_Seguranca)
 - [Módulo 6 - Análise detalhada do pilar de confiabilidade](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_6_Analise_Detalhada_do_Pilar_de_Confiabilidade)
 - [Módulo 7 - Análise detalhada do pilar de eficiência de desempenho](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_7_Analise_Detalhada_do_Pilar_de_Eficiencia_de_Desempenho)
-- [Módulo 8 - Análise detalhada do pilar de otimização de custos]()
+- [Módulo 8 - Análise detalhada do pilar de otimização de custos](https://github.com/romulovieira777/Principios_do_AWS_Well_Architected/tree/main/Modulo_8_Analise_Detalhada_do_Pilar_de_Otimizacao_de_Custos)
 
 Link para o Curso: [AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17997/principios-do-aws-well-architected-portugues-aws-well-architected-foundations-portuguese)
-1.19
